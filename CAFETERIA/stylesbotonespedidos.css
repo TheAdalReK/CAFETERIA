@@ -1,0 +1,53 @@
+p {
+  text-align: center;
+}
+.contenedordebotones{
+ width:1200px;
+ height:850px;
+ background: #F3E2A9;
+ display : flex;
+ flex-direction : row;
+}
+
+.contenedordebotones .posicionbebidas{
+ width:265px;
+ height:280px;
+ background:blue;
+ position: relative;
+ left:40;
+ top:20;
+}
+
+.contenedordebotones .posicionbebidas2{
+ width:265px;
+ height:280px;
+ background:blue;
+ position: relative;
+ left:60;
+ top:20;
+}
+.contenedordebotones .posicionbebidas3{
+ width:265px;
+ height:280px;
+ background:blue;
+ position: relative;
+ left:80;
+ top:20;
+}
+.contenedordebotones .posicionbebidas4{
+ width:265px;
+ height:280px;
+ background:blue;
+ position: relative;
+ left:100;
+ top:20;
+}
+
+.contenedordebotones .enviarpedido{
+ width:80px;
+ height:50px;
+ background:blue;
+ position: relative;
+ right:505;
+ top:330;
+}

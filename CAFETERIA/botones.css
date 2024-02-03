@@ -1,0 +1,76 @@
+.boton-cerrar-sesion {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    /*padding: 10px 20px;*/
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+  .boton-cerrar-sesion:hover {
+    background-color: #ff7b6b;
+    color: white;
+  }
+  
+  .boton-regresar {
+    background-color: #0D6AEA;
+    color: white;
+    border: none;
+    /*padding: 10px 20px;*/
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+  .boton-regresar:hover {
+    background-color: #ff7b6b;
+    color: white;
+  }
+  
+  .boton-refrescar {
+    background-color: #F9130B;
+    color: white;
+    border: none;
+    /*padding: 10px 20px;*/
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+  .boton-refrescar:hover {
+    background-color: #ff7b6b;
+    color: white;
+  }
+  
+  .boton-realizar-pedido, .boton-finalizar-pedido{
+    background-color: #F9130B;
+    color: white;
+    border: none;
+    /*padding: 10px 20px;*/
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    margin: 0 auto;
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+  .boton-realizar-pedido:hover,.boton-finalizar-pedido:hover {
+    background-color: #ff7b6b;
+    color: white;
+  }
+  
